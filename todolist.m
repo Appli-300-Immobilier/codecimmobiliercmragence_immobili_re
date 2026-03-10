@@ -1,10 +1,10 @@
-# To-Do List for - codecimmobiliercmrAgence immobili�re Website
+# To-Do List for - codecimmobiliercmrAgence immobiliére Website
 
 ## Project Overview
-- **Company Name:** - codecimmobiliercmrAgence immobili�re
+- **Company Name:** - codecimmobiliercmrAgence immobiliére
 - **Directory:** codecimmobiliercmragence_immobili_re
 - **Address/Contact:** 
-  - " ?? Immobilier - ?? B�timent -?? Gestion Locative - ??Lotissement - ??Formation | � chacun son Terrain
+  - " ?? Immobilier - ?? Bétiment -?? Gestion Locative - ??Lotissement - ??Formation | é chacun son Terrain
   - ??Douala ??658 492 639 | ."
 - **Description:** https://www.facebook.com/codecimmobiliercmr
 - **Social Media:** 
@@ -22,7 +22,7 @@
 ### 2. Configuration
 - [ ] Update package.json:
   - Name: codecimmobiliercmragence-immobili-re  - Version: 0.1.0- [ ] Update index.html:
-  - Title: - codecimmobiliercmrAgence immobili�re  - Meta description: https://www.facebook.com/codecimmobiliercmr...
+  - Title: - codecimmobiliercmrAgence immobiliére  - Meta description: https://www.facebook.com/codecimmobiliercmr...
 ### 3. Branding & Content
 - [ ] **Logo:** 
   - Source: Create a placeholder logo  - Action: Copy to src/assets/logo.png (or svg).
@@ -38,7 +38,7 @@ theme.extend.colors.primary to match the brand.
 
 ### 4. Content Integration
 - [ ] **Home Page (src/pages/public/Home.jsx):
-  - Replace the hero title with "- codecimmobiliercmrAgence immobili�re".
+  - Replace the hero title with "- codecimmobiliercmrAgence immobiliére".
   - Update the subtitle with: "https://www.facebook.com/codecimmobiliercmr".
   - Update "Featured Products" if specific images/products are provided (currently using mock data).
 - [ ] **About Page (src/pages/public/About.jsx):
